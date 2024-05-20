@@ -1,0 +1,100 @@
+#first{
+	width: 100%;
+	height: auto;
+	background-image:url(avd2.jpg);
+}
+#header{
+	width: 100%;
+	height:250px;
+}
+#header img{
+	margin-left:1%;
+}
+ul{
+	list-style: none;
+}
+ul li{
+	background-color:orange;
+	float:left;
+	width:250px;
+	height:60px;
+	font-size:25px;
+	text-align:center;
+	line-height:60px;
+	font-family:cursive;
+	margin-top:20px;
+}
+ul li a{
+	text-decoration:none;
+}
+ul li a:hover{
+	color:red;
+}
+#last{
+	width:100%;
+	height:400px;
+	margin-top:95px;
+}
+#left{
+	width:70%;
+	height:400px;
+	background-color:white;
+	float:left;
+}
+#right{
+	width:30%;
+	height:400px;
+	background-color:white;
+	float:left;
+}
+#right h2{
+	text-align:center;
+}
+#right h1{
+	text-align:center;
+}
+#right h2 a{
+	text-decoration:none;
+}
+#footar{
+	width:100%;
+	height:200px;
+	background-color:black;
+	margin-top:1px;
+}
+#im{
+	width:35%;
+	height:200px;
+	float:left;
+}
+#info{
+	width:30%;
+	height:200px;
+	float:left;
+}
+#add{
+	width:35%;
+	height:200px;
+	float:left;
+}
+img{
+	margin-left:2%;
+	margin-top:2%;
+}
+#info h4{
+	color:white;
+	margin-left:5%;
+	font-size:20px;
+	text-align:center;
+}
+#info h4 a{
+	text-decoration:none;
+}
+#add h4{
+	color:white;
+	font-size:20px;
+	text-align:center;
+}
+#add h4 a{
+	text-decoration:none;
+}
